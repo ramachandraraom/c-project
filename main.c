@@ -1,0 +1,5 @@
+main() {
+	smallestnu();
+	biggestnu();
+	factorial();
+}
